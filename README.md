@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my Fivem server 
+- 🌱 I’m currently learning to better my coding skills 
+- 👯 I’m looking to collaborate on anything to do with Fivem 
+- 🤔 I’m looking for help to better any of my current skills 
+
+Link to [Discord](https://discord.gg/U7QvFNaYPU) 
+
 <!--
 **rockrocks8/rockrocks8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
