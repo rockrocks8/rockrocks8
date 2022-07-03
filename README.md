@@ -20,9 +20,6 @@ Link to [Discord](https://discord.gg/U7QvFNaYPU)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockrocks8&show_icons=true&locale=en" alt="rockrocks8" /></p>
 
-
-Link to [Discord](https://discord.gg/U7QvFNaYPU) 
-
 <!--
 **rockrocks8/rockrocks8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
