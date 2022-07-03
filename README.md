@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning to better my coding skills 
 - 👯 I’m looking to collaborate on anything to do with Fivem 
 - 🤔 I’m looking for help to better any of my current skills 
+- 📫 How to reach me: You can reach me on Discord, Link below ! 
 
 Link to [Discord](https://discord.gg/U7QvFNaYPU) 
 
