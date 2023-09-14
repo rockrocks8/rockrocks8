@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm rockrocks8</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rockrocks8&label=Profile%20views&color=0e75b6&style=flat" alt="rockrocks8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rockrocks8" alt="rockrocks8" /></a> </p>
 
 - 🔭 I’m currently working on **ReformedRP my Fivem server**
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me: **You can reach me on Discord, Link below !**
 
-<b>Link to [Discord](https://discord.gg/U7QvFNaYPU)</b>
+<b>Link to [Discord](https://discord.gg/h6KTYBFSgK)</b>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockrocks8&show_icons=true&locale=en" alt="rockrocks8" /></p>
 
